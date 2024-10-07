@@ -1,0 +1,13 @@
+Funcionalidades:
+
+1 - Gerente entra no app e vai colocar:
+
+    1.1 - De qual unidade ele é?
+    1.2 - Anexar um PDF ou foto do boleto escaneado.
+    1.3 - Código do boleto
+    1.4 - Anexar a Nota Fiscal, em PDF ou escaneada.
+    1.5 - Anexar o XML relacionado a essa NF. Caso não tenha o XML, deverá inserir o fornecedor, produtos, quantidade por produto, valor por produtos e o valor da compra. Se for inviável inserir os produtos, inserir apenas o fornecedor e o valor total da compra.
+
+2 - Peniche irá receber todo dia às 10:00 um email informando os boletos recebidos para agendar os pagamentos. A Equity Rio e o Titus serão copiados neste email.
+
+3 - Alimentar a planilha gerencial da Banka com todos os produtos informados pelos gerentes. Com isso, conseguiremos avaliar quais fornecedores enviam ou não os XMLs.
